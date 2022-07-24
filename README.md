@@ -1,7 +1,7 @@
 
 Implemented search engine for DSA problems
 
-Used BM-25 algorithm to score the questions in the database and display the best 10 possible results.
+Used TF-IDF algorithm to score the questions in the database and display the best 10 possible results.
 
 Technologies Used -
 
